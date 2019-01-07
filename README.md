@@ -1,2 +1,2 @@
 # abondarciukas.github.io
-A page containing my projects
+Website containing my projects
